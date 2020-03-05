@@ -1,2 +1,2 @@
-# omkar-kadam
+# Omkar Kadam
 My Personal Github Page
