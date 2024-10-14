@@ -9,31 +9,16 @@ Architecting the future, one line of code at a time. I'm passionate about crafti
 
 ### 🛠️ Tech Stack
 
-```mermaid
-graph TD
-    A[Omkar's Tech Universe] --> B[Salesforce Ecosystem]
-    A --> C[AI & Machine Learning]
-    A --> D[Web Technologies]
-    A --> E[DevOps & Tools]
-    
-    B --> B1[Apex]
-    B --> B2[LWC]
-    B --> B3[Aura]
-    B --> B4[SFDX]
-    
-    C --> C1[Python]
-    C --> C2[LLMs]
-    C --> C3[TensorFlow]
-    
-    D --> D1[HTML/CSS]
-    D --> D2[JavaScript]
-    D --> D3[Svelte]
-    D --> D4[Tailwind]
-    
-    E --> E1[Git]
-    E --> E2[Docker]
-    E --> E3[Heroku]
-```
+| Salesforce Ecosystem | AI & Machine Learning | Web Technologies | DevOps & Tools |
+|:--------------------:|:---------------------:|:----------------:|:---------------:|
+| Apex                 | Python                | HTML/CSS         | Git             |
+| LWC                  | LLMs                  | JavaScript       | Docker          |
+| Aura                 | TensorFlow            | Svelte           | Heroku          |
+| SFDX                 | Machine Learning      | Tailwind         | Copado          |
+| Triggers             | Jupyter Notebooks     | REST APIs        | GCP             |
+| FLOWS                | Pandas                | WebSocket        | AWS             |
+| Salesforce Integration      |                       | MongoDB          | Postman         |
+
 
 ### 🏆 Highlights
 
